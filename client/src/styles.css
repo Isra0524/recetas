@@ -34,3 +34,22 @@
   justify-content: center;
   align-items: center;
 }
+
+/* se cambio esto */
+.text-s h2{
+  color: rgb(76, 173, 177);
+  box-shadow: 5px 5px 10px;
+  border: none;
+}
+
+.text-s h1{
+  color: rgb(117, 39, 219);
+}
+
+.acerca_img{
+  width: 95px;
+  height: 115px;
+  border-radius: 20px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
