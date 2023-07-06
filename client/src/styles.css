@@ -66,3 +66,12 @@
   object-fit: cover;
   background-repeat: no-repeat;
 }
+
+.nombre_acerca{
+  font-size: 18px;
+}
+
+.subtitulo_acerca{
+  font-size: 22px;
+  font-weight: bold;
+}
