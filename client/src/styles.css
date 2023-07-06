@@ -36,14 +36,11 @@
 }
 
 /* se cambio esto */
-.text-s h2{
-  color: rgb(76, 173, 177);
-  box-shadow: 5px 5px 10px;
-  border: none;
-}
-
-.text-s h1{
-  color: rgb(117, 39, 219);
+.hidden .text-sm:hover{
+  padding: 5px 10px;
+  border-radius: 15px;
+  border-bottom: 3px solid black;
+  box-shadow: 3px 3px 10px;
 }
 
 .acerca_img{
