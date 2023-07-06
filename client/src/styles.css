@@ -36,6 +36,22 @@
 }
 
 /* se cambio esto */
+
+.text-s h2{
+  color: rgb(76, 173, 177);
+  box-shadow: 5px 5px 10px;
+  border: none;
+}
+
+.text-s h1{
+  color: rgb(117, 39, 219);
+}
+
+.text-s:hover{
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  box-shadow: 10px 10px 30px 10px;
+}
+
 .hidden .text-sm:hover{
   padding: 5px 10px;
   border-radius: 15px;
