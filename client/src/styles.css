@@ -64,7 +64,8 @@
   height: 115px;
   border-radius: 20px;
   object-fit: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  box-shadow: 5px 5px 5px 5px;
 }
 
 .nombre_acerca{
