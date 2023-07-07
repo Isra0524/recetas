@@ -21,19 +21,16 @@
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   border-radius: 23px;
-  background: rgba(87, 185, 214, 0.5);
+  background: rgb(255 168 168 / 50%);
   height: 75vh;
   display: flex;
   align-items: center;
-  box-shadow: 10px 10px 30px 10px;
 }
 
 .centrado {
-  height: 90vh;
+  height: 95vh;
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
-/* se cambio esto */
