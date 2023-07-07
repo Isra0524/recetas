@@ -34,3 +34,19 @@
   justify-content: center;
   align-items: center;
 }
+/* cambios erika */
+.acerca_img{
+  width: 95px;
+  height: 115px;
+  border-radius: 20px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+.nombre_acerca{
+  font-size: 18px;
+}
+.subtitulo_acerca{
+  font-size: 22px;
+  font-weight: bold;
+}
+
