@@ -22,7 +22,7 @@
   backdrop-filter: blur(10px);
   border-radius: 23px;
   background: rgb(255 168 168 / 50%);
-  height: 75vh;
+  height: 83vh;
   display: flex;
   align-items: center;
 }
