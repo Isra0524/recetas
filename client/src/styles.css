@@ -34,3 +34,23 @@
   justify-content: center;
   align-items: center;
 }
+
+/* cambios Roberto & Dayan*/
+.btm-recetas{
+
+  padding: 5px 10px;
+
+  background-color: aqua;
+
+  color: black;
+
+  border-radius: 10px;
+
+}
+
+ .btm-recetas:hover{
+
+  background-color: rgb(107, 210, 236);
+
+}
+
