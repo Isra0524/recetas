@@ -21,7 +21,7 @@
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   border-radius: 23px;
-  background: rgb(255 168 168 / 50%);
+  background: rgba(163, 190, 195, 0.715);
   height: 75vh;
   display: flex;
   align-items: center;
@@ -49,4 +49,12 @@
 .text-s:hover{
   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
   box-shadow: 10px 10px 30px 10px;
+}
+
+.btm-recetas {
+  font-size: 18px;
+  padding: 10px 20px;
+  box-shadow: 5px 5px 8px 7px rgba(245, 245, 220, 0.619), -5px -5px 8px 7px;
+  color: rgb(24, 6, 77);
+  font-weight: 500;
 }
